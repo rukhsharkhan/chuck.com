@@ -1,0 +1,77 @@
+.header {
+  width: 825px;
+  height: 825px;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 25px;
+}
+
+h1 {
+  font-size: 25px;
+  font-weight: bold;
+  color: #ffffff;
+  text-align: center;
+  text-transform: uppercase;
+  background-color: #000000;
+}
+h2 {
+  font-size: 20px;
+  font-weight: bold;
+  color: #000;
+  text-align: center;
+}
+p {
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.author {
+  font-style: italic;
+  text-align: center;
+}
+a:link {
+  font-size: 16px;
+  font-weight: bold;
+  color: #1098ad;
+}
+a:visited {
+  font-size: 16px;
+  font-weight: bold;
+  color: #1098ad;
+}
+a:hover {
+  color: orangered;
+  font-weight: bold;
+  text-decoration: underline orangered;
+}
+a:active {
+  background-color: white;
+  font-style: italic;
+}
+button {
+  width: 820px;
+  font-size: 22px;
+  font-weight: bold;
+  color: #ffffff;
+  text-align: center;
+  background-color: #000000;
+}
+button:hover {
+  width: 820px;
+  font-size: 22px;
+  font-weight: bold;
+  color: #000000;
+  text-align: center;
+  background-color: #ffffff;
+}
+li {
+  font-size: 16px;
+
+  font-family: Arial, Helvetica, sans-serif;
+}
+body {
+  backgroud-color: #f7f7f7;
+  line-height: 1.2;
+}
+.ideal {
+  border: 6px solid black;
+}
